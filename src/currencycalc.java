@@ -4,7 +4,7 @@ public class currencycalc {
     @SuppressWarnings("unused")
     public static void main(String args[])
     {
-        //input from user
+        
         Scanner sc = new Scanner(System.in);
         double rate = 83.14; // USD TO INR RATE
         String basecrrncy; 
